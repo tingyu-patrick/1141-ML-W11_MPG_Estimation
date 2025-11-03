@@ -3,3 +3,4 @@ medium_baseline*.ipynb
 .DS_Store
 data/solution.csv
 submission.csv
+*_baseline.csv
