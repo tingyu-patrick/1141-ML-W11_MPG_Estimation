@@ -1,0 +1,5 @@
+easy_baseline.ipynb
+medium_baseline*.ipynb
+.DS_Store
+data/solution.csv
+submission.csv
